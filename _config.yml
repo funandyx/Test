@@ -1,8 +1,7 @@
 theme: jekyll-theme-modernist
 
-url: "https://funandyx.github.io"
 
-baseurl: /personal-jekyll-theme
+
 
 encoding: 'utf-8'
 language: 'en-us'
