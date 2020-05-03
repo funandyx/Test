@@ -1,5 +1,7 @@
 ## Welcome to andrewsai.com
 
+![image](http://www.upl.co/upload/n1Tu4Mr8O)
+
 ### Andrew Adjah Sai is a PhD in Management from Estonian Business School. Andrew obtained a CIMA Advanced Diploma in Management Accounting from United Kingdom and a masters degree in Information Systems from India. Andrew works as Analyst and Operations Engineer with Twilio and has had worked previously with Micosoft and the National Audit Office of Ghana, FedEx and more. Andrew teaches many courses.
 
 
