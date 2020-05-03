@@ -1,2 +1,74 @@
 theme: jekyll-theme-modernist
 
+encoding: 'utf-8'
+language: 'en-us'
+
+# Site Settings
+title: Brandons Blog
+author:
+  name: Brandon Brown
+  email: brandon@brandonb.ca
+description: Canadian with a passion for <br />open source, tech, and web development
+meta_description: Brandon Brown, QA Developer — Canadian with a passion for open source, tech, and web development
+avatar_img: /avatar18_512.jpg
+
+# Favicons
+favicon:
+  ico: /favicon.ico
+  png: /logo-144.png
+  theme_color: '#FFFFFF'
+
+excerpt_separator: '<!-- break -->'
+
+# Routes
+permalink: /:title
+
+assets_root: ''
+assets_media: /assets/media
+assets_scripts: /assets/scripts
+assets_styles: /assets/styles
+
+# Writing
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+# Build-stuff
+keep_files: ['assets', 'api']
+
+defaults:
+  - scope:
+      path: ''
+      type: posts
+    values:
+      layout: post
+      is_post: true
+  - scope:
+      path: ''
+      type: projects
+    values:
+      layout: page
+
+collections:
+  projects:
+    output: true
+
+# 3rd-party
+social:
+  github: brandonb927
+  twitter: brandonb927
+  instagram: brandonb.927
+  flickr: brandonb927
+
+google_analytics:
+  id: UA-32422940-2
+  domain: brandonb.ca
+
+google_ads:
+  id: ca-pub-5686888191550897
+  publisher_id: pub-5686888191550897
+
+amazon_associates_tag: brandonb0a-20
+
