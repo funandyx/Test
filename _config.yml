@@ -1,11 +1,6 @@
 theme: jekyll-theme-modernist
 # Setup
-title: Poole
-tagline: The Jekyll Butler
-url: https://getpoole.com
-paginate: 1
-baseurl: ""
-permalink: pretty
+
 
 # Gems
 plugins:
