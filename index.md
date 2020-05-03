@@ -1,6 +1,6 @@
 ## Welcome to andrewsai.com
 
-![image](https://github.com/funandyx/andrewsai/blob/master/Andy1.jpeg)
+![image](https://github.com/funandyx/andrewsai/blob/master/Andy1.ico)
 
 
 ## About Andrew Sai
