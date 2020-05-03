@@ -11,48 +11,6 @@ description: Ghanaian with a passion for <br />open source, tech, and web develo
 meta_description: Andrew Sai, PhD — Ghanaian with a passion for open source, tech, and web development
 avatar_img: https://github.com/funandyx/andrewsai/blob/master/Andy1.jpeg
 
-# Favicons
-favicon:
-  ico: /Andy1.ico
-  png: /logo-144.png
-  theme_color: '#FFFFFF'
-
-excerpt_separator: '<!-- break -->'
-
-# Routes
-permalink: /:title
-
-assets_root: ''
-assets_media: /assets/media
-assets_scripts: /assets/scripts
-assets_styles: /assets/styles
-
-# Writing
-markdown: kramdown
-highlighter: rouge
-kramdown:
-  input: GFM
-  syntax_highlighter: rouge
-
-# Build-stuff
-keep_files: ['assets', 'api']
-
-defaults:
-  - scope:
-      path: ''
-      type: posts
-    values:
-      layout: post
-      is_post: true
-  - scope:
-      path: ''
-      type: projects
-    values:
-      layout: page
-
-collections:
-  projects:
-    output: true
 
 # 3rd-party
 social:
