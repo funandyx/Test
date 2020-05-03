@@ -4,13 +4,13 @@ encoding: 'utf-8'
 language: 'en-us'
 
 # Site Settings
-title: Brandons Blog
+title: Andrew Sai's Page
 author:
-  name: Brandon Brown
-  email: brandon@brandonb.ca
-description: Canadian with a passion for <br />open source, tech, and web development
-meta_description: Brandon Brown, QA Developer — Canadian with a passion for open source, tech, and web development
-avatar_img: /avatar18_512.jpg
+  name: Andrew Sai
+  email: andrewadjahsai@gmail.com
+description: Ghanaian with a passion for <br />open source, tech, and web development
+meta_description: Andrew Sai, PhD — Ghanaian with a passion for open source, tech, and web development
+avatar_img: https://github.com/funandyx/andrewsai/blob/master/Andy1.jpeg
 
 # Favicons
 favicon:
@@ -57,18 +57,9 @@ collections:
 
 # 3rd-party
 social:
-  github: brandonb927
-  twitter: brandonb927
-  instagram: brandonb.927
-  flickr: brandonb927
+  github: funandyx
+  twitter: niiadjahsai
+  instagram: funandyx
 
-google_analytics:
-  id: UA-32422940-2
-  domain: brandonb.ca
 
-google_ads:
-  id: ca-pub-5686888191550897
-  publisher_id: pub-5686888191550897
-
-amazon_associates_tag: brandonb0a-20
 
