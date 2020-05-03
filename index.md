@@ -1,13 +1,15 @@
 ## Welcome to andrewsai.com
 
-![image](http://www.upl.co/upload/n1Tu4Mr8O)
-
-### Andrew Adjah Sai is a PhD in Management from Estonian Business School. Andrew obtained a CIMA Advanced Diploma in Management Accounting from United Kingdom and a masters degree in Information Systems from India. Andrew works as Analyst and Operations Engineer with Twilio and has had worked previously with Micosoft and the National Audit Office of Ghana, FedEx and more. Andrew teaches many courses.
+![image](https://github.com/funandyx/andrewsai/blob/master/Andy1.jpeg)
 
 
-## My GitHub: https://github.com/funandyx
-## My LinkedIn: https://www.linkedin.com/in/andrewadjahsai/
-## My Foundation: https://infokapital.org/
+
+Andrew Adjah Sai is a PhD in Management from Estonian Business School. Andrew obtained a CIMA Advanced Diploma in Management Accounting from United Kingdom and a masters degree in Information Systems from India. Andrew works as Analyst and Operations Engineer with Twilio and has had worked previously with Micosoft and the National Audit Office of Ghana, FedEx and more. Andrew teaches many courses.
+
+
+My GitHub: https://github.com/funandyx
+My LinkedIn: https://www.linkedin.com/in/andrewadjahsai/
+My Foundation: https://infokapital.org/
 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
